@@ -1,0 +1,21 @@
+{
+    "name": "soul-dark-theme",
+    "displayName": "soul-dark-theme",
+    "description": "A cool theme for vscode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "soul-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/soul-dark-color-theme.json"
+            }
+        ]
+    }
+}

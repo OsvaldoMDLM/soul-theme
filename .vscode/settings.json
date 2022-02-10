@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "soul-dark",
+    "editor.fontFamily": "'Fira Code', 'Noto Mono', 'Droid Sans Mono', 'Courier New', monospace, 'Droid Sans Fallback'",
+    "editor.fontLigatures": true,
+    "editor.bracketPairColorization.enabled": true,
+    "terminal.integrated.fontFamily": "MesloLGS NF, monospace",
+    "terminal.integrated.fontSize": 15,
+    "better-comments.multilineComments": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+}
