@@ -1,4 +1,4 @@
-# Vscode Theme
+# Soul a vscode Theme
 
 ### observations
 - check the color `#e06c75` where it's used
