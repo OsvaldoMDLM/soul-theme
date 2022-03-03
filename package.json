@@ -2,7 +2,7 @@
     "name": "soul-dark-theme",
     "displayName": "soul-dark-theme",
     "description": "A cool theme for vscode",
-    "version": "0.0.1",
+    "version": "V0.0.1",
     "engines": {
         "vscode": "^1.64.0"
     },
