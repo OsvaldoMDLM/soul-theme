@@ -1,13 +1,39 @@
-# README
-## This is the README for your extension "soul-dark-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Vscode Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+### observations
+- check the color `#e06c75` where it's used
+- some symbols are purple and others are low blue
+***
+### TODO
+- [ ] change syntax colors
+- [ ] change terminal color when underlining text
+- [ ] modify the scroll bar initial state  `obscure`, hover  `brillant`  y clic  `more brillant`.
+- [ ] the color of the inputs is very strong, better change it to `282c34`
+***
+## Colors
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+### editor
+| Hexadecimal | name |
+| ----------- | ---- |
+| `#3b638e` | List/Tree background when hovering over items using the mouse. |
+| `#c9c9c9` | foregorund                                                     |
+| `#5baff9` | primary                                                        |
+| `#20232b` | background                                                     |
+| `#ab0883` | debugging background                                           |
+| `#953eab` | Status Bar background color when no folder is opened.          | 
+| `#3c98cf` | Background color for the remote indicator on the status bar.   |
+| `#2f90cb83` | Status Bar item background color when hovering.              |
 
-**Enjoy!**
+### sintaxis
+| Hexadecimal | name |
+| ----------- | ---- |
+| `#d4d4d4` | editor.doreground     	 		| 
+| `#e06c75` | variavles, properties  			|
+| `#c678dd` | keywords               			|
+| `#d19a66` | numbers                			|
+| `#e5c07b` | clases, constants      			|
+| `#61afef` | fuctions, methods      			|
+| `#98c379` | strings                			|
+| `#56b6c2` | operators, special fuctions | 
+| `#7f848e` | comments                    |
+___
