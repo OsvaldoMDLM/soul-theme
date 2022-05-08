@@ -1,13 +1,8 @@
 {
   /*
-todo: add the ruler colors
-todo: change the color of hover foreground & background
-todo: show dot spaces intensify
-todo: change the color of numbers line
-todo: change the color of git new and old code
-#0D4579
-#BD3636
-*/
+    todo: change the color of git new and old code
+    TODO: change
+  */
   "type": "dark",
   "name": "soul-dark",
   "semanticHighlighting": true,
@@ -39,13 +34,13 @@ todo: change the color of git new and old code
   },
   "colors": {
     "activityBar.background": "#141820",
-    "activityBar.inactiveForeground": "#b3b2b2", // todo change this color
+    "activityBar.inactiveForeground": "#9aa5b2",
     "activityBarBadge.background": "#4B76CF",
     "activityBarBadge.foreground": "#ffffff",
     "diffEditor.insertedTextBackground": "#66f0c213",
     "dropdown.background": "#141820",
-    "editor.background": "#141820", //* TODO change to this color #1C212E
-    "editor.foreground": "#97a7c8", //Todo change the foreground color to #D7DCE6
+    "editor.background": "#141820",
+    "editor.foreground": "#97a7c8",
     "editor.lineHighlightBackground": "#99bbff0a",
     "editor.selectionBackground": "#e6eeff21",
     "editor.wordHighlightBackground": "#343F56",
@@ -55,10 +50,12 @@ todo: change the color of git new and old code
     "editorGutter.addedBackground": "#308E68",
     "editorGutter.modifiedBackground": "#938464",
     "editorIndentGuide.background": "#97a7c826",
+    "editorIndentGuide.activeBackground": "#e92459",
     "editorLineNumber.activeForeground": "#818ca6",
     "editorLineNumber.foreground": "#3D4D67",
+    "editorRuler.foreground": "#e92459",
     "editorSuggestWidget.background": "#141820",
-    "editorWhitespace.foreground": "#3b3a32",
+    "editorWhitespace.foreground": "#666666",
     "editorWidget.background": "#141820",
     "foreground": "#818CA6",
     "gitDecoration.ignoredResourceForeground": "#3D4D67",
@@ -68,34 +65,44 @@ todo: change the color of git new and old code
     "input.border": "#1A1F2E",
     "input.foreground": "#818CA6",
     "input.placeholderForeground": "#3D4D67",
-    "list.activeSelectionBackground": "#4B76CF",
+    "list.activeSelectionBackground": "#283b5d",
     "list.activeSelectionForeground": "#ffffff",
-    "list.focusBackground": "#3D4D67",
-    "list.hoverBackground": "#3D4D67",
+    "list.focusBackground": "#313f54",
+    "list.hoverBackground": "#222b3a",
     "list.hoverForeground": "#cacfd8",
     "list.inactiveSelectionBackground": "#303B50",
     "list.inactiveSelectionForeground": "#e5e9f1",
+    "minimap.errorHighlight": "#f44747",
+    "minimapGutter.addedBackground": "#308E68",
+    "minimapGutter.modifiedBackground": "#938464",
+    "minimapSlider.background": "#35466333",
+    "minimapSlider.hoverBackground": "#212e4536",
+    "minimapSlider.activeBackground": "#35466339",
     "panel.background": "#141820",
     "panel.border": "#1A1F2E",
     "pickerGroup.foreground": "#FFE792",
     "scrollbar.shadow": "#11141a11",
-    "scrollbarSlider.activeBackground": "#ffffff22",
-    "scrollbarSlider.background": "#ffffff11",
-    "scrollbarSlider.hoverBackground": "#ffffff22",
+    "scrollbarSlider.background": "#25375657",
+    "scrollbarSlider.hoverBackground": "#29375057",
+    "scrollbarSlider.activeBackground": "#35466355",
     "sideBar.background": "#141820",
     "sideBarSectionHeader.background": "#141820",
     "sideBarTitle.foreground": "#818CA6",
+    "sideBar.border": "#232a3d",
     "statusBar.background": "#141820",
     "statusBar.debuggingBackground": "#D120A6",
     "statusBar.foreground": "#818CA6",
     "statusBar.noFolderBackground": "#953EAB",
-    "statusBarItem.hoverBackground": "#818ca68f",
-    "statusBarItem.remoteBackground": "#E33E5A",
+    "statusBarItem.hoverBackground": "#222b3a",
+    "statusBarItem.remoteBackground": "#e92459",
     "tab.activeBackground": "#141820",
+    "tab.hoverBackground": "#222b3a",
     "tab.border": "#141820",
     "tab.inactiveBackground": "#141820",
     "tab.inactiveForeground": "#818CA6",
     "tab.unfocusedInactiveForeground": "#818CA6",
+    "tree.indentGuidesStroke": "#e94873",
+    "tree.tableColumnsBorder": "#ffffff",
     "terminal.background": "#141820",
     "titleBar.activeBackground": "#141820",
     "titleBar.activeForeground": "#818CA6",
